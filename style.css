@@ -673,6 +673,10 @@ footer p {
   /* ★ボタンの高さ（44px）の半分のネガティブマージンで上に少しずらす */
 }
 
+.slide-bgimg p {
+  text-align: center;
+}
+
 .pace-progress-inner {
   width: 40px;
   height: 40px;

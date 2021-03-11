@@ -496,7 +496,9 @@ footer p {
 	top: calc((100% - 50px) * 0.5);	/* ☆★ページネーション・スクロールバー（50px）を除く縦位置の中央（＝スライドの高さの中央）に一旦配置 */
 	margin-top: -22px;			/* ★ボタンの高さ（44px）の半分のネガティブマージンで上に少しずらす */
 }
-
+.slide-bgimg p {
+    text-align: center;
+}
 .pace-progress-inner {
 width: 40px;
 height: 40px;

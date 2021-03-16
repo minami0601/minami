@@ -529,7 +529,7 @@ footer p {
   position: fixed;
   bottom: 0;
   width: 100%;
-  height: 50px;
+  height: 100px;
   background-color: #fff;
   z-index: 1005;
 }
@@ -798,7 +798,7 @@ footer p {
     width: 90%;
   }
   footer {
-    height: 100px;
+    height: 160px;
     padding-bottom: 70px;
   }
   footer p {
